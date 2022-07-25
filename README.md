@@ -1,4 +1,4 @@
-# khalid_Profile_website
+# khalid_profile_website
 My profile website using Vue js
 
 ### Languages
